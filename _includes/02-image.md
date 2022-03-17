@@ -1,1 +1,1 @@
-![This is a puppy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg4531%2Fcutest-dog-breeds%2F&psig=AOvVaw2EnL2c385ayxLSDYVbdJde&ust=1647586579422000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCZurrIzPYCFQAAAAAdAAAAABAD) 
+![This is a puppy](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=980:*) 
