@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Darkhan Shakhanov's Portfolio
+## Here you can see the showcase of my data analytics skills
