@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is a puppy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg4531%2Fcutest-dog-breeds%2F&psig=AOvVaw2EnL2c385ayxLSDYVbdJde&ust=1647586579422000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCZurrIzPYCFQAAAAAdAAAAABAD) 
